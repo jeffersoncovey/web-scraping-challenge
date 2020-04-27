@@ -1,0 +1,14 @@
+.panel-heading {
+    margin-top: 60px; 
+    /* padding: 10px 20px 15px;  */
+    /* border-style: solid; */
+  }
+.box {
+    border-style: outset;
+    padding: 10px;
+  }
+
+.table-responsive {
+  
+    margin-top: 50px;
+  }
