@@ -4,9 +4,9 @@ Thank you for viewing my mission to mars repo! This was my first attempt at web 
 
 Missions_to_Mars directory contains everything needed to run the app. Once there you are able to run app.py which will bring up browser and you should see the website. Go ahead and click Scrape New Data to get started learning about Mars!
 
-![mission_to_mars_1](Missions_to_Mars/mission_to_mars_1.png)
+![mission_to_mars_1](Missions_to_Mars/mission_to_mars_1.PNG)
 
-![mission_to_mars_2](Missions_to_Mars/mission_to_mars_2.png)
+![mission_to_mars_2](Missions_to_Mars/mission_to_mars_2.PNG)
 
 # app.py
 The main app you should run.
